@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETMVC5", "ASPNETMVC5\ASPNETMVC5.csproj", "{AB307923-0D8E-434F-BACD-6094E51BAE53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASpNETCore2", "ASpNETCore2\ASpNETCore2.csproj", "{4E488045-75DA-42A0-917B-818A66365CE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{5E3216F3-8DA1-4B62-B81F-1F69F715142D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB307923-0D8E-434F-BACD-6094E51BAE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB307923-0D8E-434F-BACD-6094E51BAE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB307923-0D8E-434F-BACD-6094E51BAE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB307923-0D8E-434F-BACD-6094E51BAE53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E488045-75DA-42A0-917B-818A66365CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E488045-75DA-42A0-917B-818A66365CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E488045-75DA-42A0-917B-818A66365CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E488045-75DA-42A0-917B-818A66365CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E3216F3-8DA1-4B62-B81F-1F69F715142D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E3216F3-8DA1-4B62-B81F-1F69F715142D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E3216F3-8DA1-4B62-B81F-1F69F715142D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E3216F3-8DA1-4B62-B81F-1F69F715142D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A3AC63D-94A6-45E3-BA8A-E6580093A157}
+	EndGlobalSection
+EndGlobal
